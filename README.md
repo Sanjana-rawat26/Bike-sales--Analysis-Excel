@@ -17,19 +17,19 @@ An interactive dashboard was created using Pivot Tables, Charts, and Slicers to 
 
 **Dashboard Preview**
 🔹 **Customer Age Bracket Analysis**
-![Age Dashboard](Age analysis dashboard.png)
+![Age Dashboard](./Age%20analysis%20dashboard.png)
 -Analyzed purchase trends across Adult, Middle Age, and Old age groups
 -Identified Middle Age customers as the highest purchasing segment
 -Compared Purchased vs Non-Purchased customers
 
 🔹**Customer Commute Distance Analysis**
-![Commute Dashboard](commute distance analysis dashboard.png)
+![Commute Dashboard](./commute%20distance%20analysis%20dashboard.png)
 -Examined impact of commute distance on bike purchases
 -Customers commuting shorter distances showed higher purchase interest
 -Interactive slicers allow filtering by region, education, and marital status
 
 🔹**Average Income vs Gender Analysis**
-![Income Dashboard](Income vs Gender Analysis dashboard.png)
+![Income Dashboard](./Income%20vs%20Gender%20Analysis%20dashboard.png)
 -Compared average income of male and female customers
 -Analyzed purchasing behavior based on income levels
 -Higher income groups showed stronger purchase probability
